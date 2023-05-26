@@ -1,8 +1,3 @@
-# Not affected
-CVE-2022-42919
-CVE-2021-3449
-CVE-2022-0778
-
 #Nodejs vulnerabilities
 
 # X.400 address type confusion in X.509 GeneralName

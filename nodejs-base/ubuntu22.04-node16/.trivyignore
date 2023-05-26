@@ -3,3 +3,9 @@ CVE-2021-3449
 
 # Not parsing elliptic curve keys
 CVE-2022-0778
+
+# X.400 address type confusion in X.509 GeneralName
+CVE-2023-0286
+
+# Regular Expression Denial of Service (ReDoS) vulnerability
+CVE-2022-25881
